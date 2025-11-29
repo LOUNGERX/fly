@@ -1,0 +1,3 @@
+D:/TRAE_TASK4/03/build/CMakeFiles/flight_planner.dir
+D:/TRAE_TASK4/03/build/CMakeFiles/edit_cache.dir
+D:/TRAE_TASK4/03/build/CMakeFiles/rebuild_cache.dir
