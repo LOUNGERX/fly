@@ -1,0 +1,4 @@
+# ninja log v6
+2	412	7861049489052411	CMakeFiles/flight_planner.dir/project/src/main.cpp.obj	72763efe832441b9
+12	1374	7861049489152462	CMakeFiles/flight_planner.dir/project/src/planner.cpp.obj	1f617e514b283374
+1374	1515	7861049502767675	bin/flight_planner.exe	a8e352ff4072eaca
